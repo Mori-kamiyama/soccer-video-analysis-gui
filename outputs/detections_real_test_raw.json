@@ -1,0 +1,44 @@
+[
+  {
+    "filename": "frame_000001.jpg",
+    "response": {
+      "objects": [],
+      "metrics": {
+        "input_tokens": 737,
+        "output_tokens": 1,
+        "prefill_time_ms": 42.74699400411919,
+        "decode_time_ms": 1.304172008531168,
+        "ttft_ms": 54.64414399466477
+      },
+      "finish_reason": "stop"
+    }
+  },
+  {
+    "filename": "frame_000002.jpg",
+    "response": {
+      "objects": [],
+      "metrics": {
+        "input_tokens": 737,
+        "output_tokens": 1,
+        "prefill_time_ms": 42.52715600159718,
+        "decode_time_ms": 1.4406939953914843,
+        "ttft_ms": 54.76604000432417
+      },
+      "finish_reason": "stop"
+    }
+  },
+  {
+    "filename": "frame_000003.jpg",
+    "response": {
+      "objects": [],
+      "metrics": {
+        "input_tokens": 737,
+        "output_tokens": 1,
+        "prefill_time_ms": 43.172448000404984,
+        "decode_time_ms": 1.2464149986044504,
+        "ttft_ms": 54.60336199757876
+      },
+      "finish_reason": "stop"
+    }
+  }
+]

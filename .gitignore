@@ -10,9 +10,20 @@
 frames/
 frames_*/
 
-# 出力・解析結果（生成物）
-outputs/
-runs/
+# 画像ファイル（個別の画像）
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# outputs内の画像ファイル
+outputs/**/*.jpg
+outputs/**/*.png
+outputs/**/*.jpeg
+outputs/**/*.gif
 
 # 学習済みモデル（大容量）
 models/*.pt
@@ -55,3 +66,6 @@ Thumbs.db
 
 # ZIPアーカイブ（大容量）
 *.zip
+
+# runsディレクトリ（YOLOなどの学習ログ）
+runs/

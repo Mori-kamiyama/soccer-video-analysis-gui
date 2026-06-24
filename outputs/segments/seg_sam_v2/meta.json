@@ -1,0 +1,9 @@
+{
+  "name": "seg_sam_v2",
+  "start_sec": 105.0,
+  "seconds": 30.0,
+  "eff_fps": 8.0,
+  "n_frames": 240,
+  "width": 1920,
+  "height": 1080
+}

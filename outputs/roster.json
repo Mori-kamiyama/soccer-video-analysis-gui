@@ -1,0 +1,92 @@
+{
+  "players": [
+    {
+      "name": "れお",
+      "team": "green"
+    },
+    {
+      "name": "とうま",
+      "team": "green"
+    },
+    {
+      "name": "いつき",
+      "team": "green"
+    },
+    {
+      "name": "えいらく",
+      "team": "green"
+    },
+    {
+      "name": "はるた",
+      "team": "green"
+    },
+    {
+      "name": "にしき",
+      "team": "green"
+    },
+    {
+      "name": "なつ",
+      "team": "green"
+    },
+    {
+      "name": "まちだ",
+      "team": "green"
+    },
+    {
+      "name": "ぶっちー",
+      "team": "green"
+    },
+    {
+      "name": "もりかわ",
+      "team": "green"
+    },
+    {
+      "name": "緑11",
+      "team": "green"
+    },
+    {
+      "name": "ちな",
+      "team": "black"
+    },
+    {
+      "name": "たつた",
+      "team": "black"
+    },
+    {
+      "name": "りら",
+      "team": "black"
+    },
+    {
+      "name": "まっちゃん",
+      "team": "black"
+    },
+    {
+      "name": "黒5",
+      "team": "black"
+    },
+    {
+      "name": "黒6",
+      "team": "black"
+    },
+    {
+      "name": "黒7",
+      "team": "black"
+    },
+    {
+      "name": "黒8",
+      "team": "black"
+    },
+    {
+      "name": "黒9",
+      "team": "black"
+    },
+    {
+      "name": "黒10",
+      "team": "black"
+    },
+    {
+      "name": "黒11",
+      "team": "black"
+    }
+  ]
+}
