@@ -1,0 +1,57 @@
+# 動画ファイル
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.mkv
+*.webm
+
+# フレーム画像（生成物）
+frames/
+frames_*/
+
+# 出力・解析結果（生成物）
+outputs/
+runs/
+
+# 学習済みモデル（大容量）
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.weights
+
+# データセット（生成物）
+dataset/
+
+# キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# 仮想環境
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ログ・バックアップ
+*.log
+*.backup*
+*.snap_backup
+
+# ZIPアーカイブ（大容量）
+*.zip
